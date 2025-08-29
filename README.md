@@ -15,10 +15,23 @@ Acetylcholinesterase (AChE) is a key enzyme targeted in Alzheimer's disease ther
 
 ## Quick Start
 
+### 1. Clone Repository
 ```bash
 git clone https://github.com/fahmidhasann/Drug-Discovery-Using-Machine-Learning.git
+```
+
+### 2. Navigate to Directory
+```bash
 cd Drug-Discovery-Using-Machine-Learning
+```
+
+### 3. Install Dependencies
+```bash
 pip install -r requirements.txt
+```
+
+### 4. Launch Jupyter Notebook
+```bash
 jupyter notebook "Drug Discovery Using Machine Learning.ipynb"
 ```
 
