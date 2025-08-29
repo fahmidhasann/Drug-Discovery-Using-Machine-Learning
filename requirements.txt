@@ -1,0 +1,28 @@
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scipy>=1.7.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+lazypredict>=0.2.12
+
+# Cheminformatics
+rdkit>=2022.03.1
+chembl-webresource-client>=0.10.8
+padelpy>=0.1.12
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter Notebook Environment
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Utility Libraries (included in Python standard library but listed for clarity)
+# pickle - built-in Python module
+# glob - built-in Python module
+
+# Optional: For better performance
+# numba>=0.56.0  # Uncomment if needed for performance optimization
