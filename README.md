@@ -57,7 +57,8 @@ jupyter notebook "Drug Discovery Using Machine Learning.ipynb"
 ## Author
 
 **Fahmid Hasan Taohid**  
-B.Sc. in Agriculture (Hons), Bangladesh Agricultural University
+B.Sc. in Agriculture (Hons), Bangladesh Agricultural University  
+Email: taohid.2102010@bau.edu.bd
 
 ## Acknowledgments
 
